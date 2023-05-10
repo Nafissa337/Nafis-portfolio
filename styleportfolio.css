@@ -1,9 +1,9 @@
 * {
-    background-color: black;
+    background-color: yellow;
 }
 
 h1 {
-    color: aqua;
+    color: red;
     font-family: cursive;
 }
 h2{
@@ -12,29 +12,15 @@ h2{
     
 }
 
-.lyrics {
+.presentation {
     text-align: center;
-    color: indianred;
-    background-color: black;
+   color: hotpink;
+    background-color: yellow;
     font-family: cursive;
 }
 
-#button1 {
-    text-align: center;
-    top: 50%;
-    left: 50%;
-    color: red;
-    background-color: black;
-    cursor: pointer;
-}
 
 #center {
     text-align: center;
 }
 
-#Tilbage til hovedsiden {
-    text-align: center;
-    color: red;
-    background-color: black;
-    cursor: pointer;
-}
